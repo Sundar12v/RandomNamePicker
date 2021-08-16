@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "248063222423",
+    "project_id": "random-name-picker-a603e",
+    "storage_bucket": "random-name-picker-a603e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248063222423:android:ab50b55849addc442a3fd2",
+        "android_client_info": {
+          "package_name": "india.randomnamepicker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248063222423-tj0e7no7h8qtqt9m4jvdcd3fg38r1loo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdJpy2CyTlBmw_-C0Eg9Fdj1jUjgKl7pk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "248063222423-tj0e7no7h8qtqt9m4jvdcd3fg38r1loo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
